@@ -1,5 +1,20 @@
 # Sample Hardhat Project
 
+ERC-20.
+@Openzeppline contracts are being used. 
+--we will have a cap supply for creating a value. 
+-- but here the token as to be generated, and how will we generate a mining reward.
+-- should we want the token to burn the token?
+--
+
+Let’s try this!!
+ Max supply: - 100, 000, 000. 
+--
+
+Initial supply (sent to owner): - 70,00,000.
+Here the remain 30,00,000 will be allocated to the reward wining system. 
+![image](https://user-images.githubusercontent.com/90866319/192066077-0808b355-c488-4bfb-b41f-0a2f2b1dc1aa.png)
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
